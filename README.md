@@ -1,4 +1,4 @@
-ales Analytics Dashboard (Looker Studio)
+Sales Analytics Dashboard (Looker Studio)
 
 A fully interactive business intelligence dashboard built in Looker Studio to analyze sales performance across products, categories, and locations. The project transforms raw transactional data into actionable insights through advanced visualizations, dynamic filters, and KPI modeling.
 
